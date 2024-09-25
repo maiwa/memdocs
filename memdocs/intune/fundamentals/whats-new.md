@@ -219,14 +219,15 @@ There are new settings in the Apple Settings Catalog. To see these settings, in 
 **Restrictions**:
 
 - Allow ESIM Outgoing Transfers
-- Allow Genmoji
-- Allow Image Playground
-- Allow Image Wand
+- Allow Genmoji*
+- Allow Image Playground*
+- Allow Image Wand*
 - Allow iPhone Mirroring
 - Allow Personalized Handwriting Results
 - Allow Video Conferencing Remote Control
 - Allow Writing Tools
-
+  
+  *these restrictions are planned to be available in US Government GCC High tenants with service release 2409.
 ##### macOS
 
 **Authentication > Extensible Single Sign On (SSO)**:
